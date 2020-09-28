@@ -6,6 +6,8 @@ Install NodeJS.
 
 Clone this repo to your harddisk, open CMD and enter the directory
 
+Tutorial: https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository
+
 npm install
 npm index
 
