@@ -1,6 +1,3 @@
-# ts_messenger_exporter
- 
-
 # How to use this?
 
 Download NodeJS: https://nodejs.org/en/
