@@ -1,0 +1,31 @@
+{
+  "name": "ts_messenger_exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pkg": {
+    "scripts": [
+      "*.js",
+      "node_modules/*.*"
+    ],
+    "assets": [
+      "*.js",
+      "node_modules/*.*",
+      "node_modules/opn/*",
+      "node_modules/regedit/*",
+      "node_modules/**/*"
+    ]
+  },
+  "bin": {
+    "pbjs": "./index.js"
+  },
+  "author": "Cobra",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.0",
+    "underscore": "^1.11.0"
+  }
+}
