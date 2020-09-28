@@ -4,7 +4,7 @@ Download NodeJS: https://nodejs.org/en/
 
 Install NodeJS.
 
-Close this repo to your harddisk, open CMD and enter the directory
+Clone this repo to your harddisk, open CMD and enter the directory
 
 npm install
 npm index
