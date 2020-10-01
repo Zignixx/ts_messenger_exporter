@@ -10,7 +10,7 @@ Tutorial: https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-rep
 
 npm install
 
-npm index
+node index
 
 This script will create a text file for every TS5 profile and export all of your contacts.
 
